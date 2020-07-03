@@ -96,7 +96,7 @@ var rules = [
             "tsrfebd.space",
             "jetbrains.com",
             "python.org",
-            "atrandys.com",
+            "atrandys.xyz",
             "18wos.org",
             "yahaha.ltd",
             "ets2.lt",
