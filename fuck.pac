@@ -118,6 +118,8 @@ var rules = [
             "91porn.com",
             "sex8.cc",
             "evernote.com",
+            "gsmarena.com",
+            "",
             "",
             "030buy.com",
             "0rz.tw",
